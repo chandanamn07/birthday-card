@@ -9,7 +9,7 @@ h1, h2, h3, h4, p {
     text-shadow: 0 0 1px black;
 }
 
-#bff-img {
+#pho {
     width: 150px;
     border-radius: 50%;
     border: 6px solid #EFB0C9;
@@ -58,28 +58,28 @@ h1, h2, h3, h4, p {
     height: 400px;
     border: 6px solid white;
     border-radius: 10px;
-    background-image: url("images/gift-cover.jpg");
+    background-image: url("C:/Users/Chandana M N/Desktop/gift-cover.jpg");
     background-size: cover;
 }
 
 #gift-img-happy:hover {
-    background-image: url("images/happy.gif");
+    background-image: url("C:/Users/Chandana M N/Desktop/happy.gif");
 }
 
 #gift-img-hot:hover {
-    background-image: url("images/hot.gif");
+    background-image: url("C:/Users/Chandana M N/Desktop/hot.gif");
 }
 
 #gift-img-genius:hover {
-    background-image: url("images/genius.gif");
+    background-image: url("C:/Users/Chandana M N/Desktop/genius.gif");
 }
 
 #gift-img-badass:hover {
-    background-image: url("images/badass.gif");
+    background-image: url("C:/Users/Chandana M N/Desktop/badass.gif");
 }
 
 #gift-img-cheers:hover {
-    background-image: url("images/cheers.gif");
+    background-image: url("C:/Users/Chandana M N/Desktop/cheers.gif");
 }
 
 #footer {
@@ -92,14 +92,3 @@ a {
     color: white;
 }
 
-/* 
-Add the footer paragraph according to the design. 
-Configure the anchor tag to open the link in a new tab.
-Forgotten how to do it? Google it! 
-
-Link: 
-https://scrimba.com/learn/htmlandcss
-
-Text:
-Want to create your own Birthday GIFt site? Take this HTML & CSS course.
-*/
